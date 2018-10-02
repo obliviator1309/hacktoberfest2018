@@ -339,3 +339,9 @@ Place: Noida,India<br/>
 About: Btech student from JIIT<br/>
 Programming Languages: C,C++,python3<br/>
 email: ranjan.kushwaha456@gmail.com<br/>
+
+Name: [Vineet Maheshwari](https://github.com/obliviator1309)<br/>
+Place: Noida,India<br/>
+About: Btech student from JIIT<br/>
+Programming Languages: C,C++,python3<br/>
+email:maheshwari.vineet7@gmail.com<br/>
